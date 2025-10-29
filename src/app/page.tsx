@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -45,7 +45,7 @@ export default function Home() {
             { text: "Learn More", href: "about" }
           ]}
           imageSrc="https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-          imageAlt="Kaleo performing live on stage with dramatic lighting"
+          imageAlt="Black and white photo of a guitarist playing during a live performance."
         />
       </div>
 
@@ -74,7 +74,7 @@ export default function Home() {
               rating: 5,
               reviewCount: "1.2k",
               imageSrc: "https://images.pexels.com/photos/9558567/pexels-photo-9558567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Black Kaleo concert t-shirt with tour dates"
+              imageAlt: "Front view of woman wearing black t-shirt with copy space on white background."
             },
             {
               id: "2",
@@ -84,7 +84,7 @@ export default function Home() {
               rating: 5,
               reviewCount: "856",
               imageSrc: "https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Vintage-style Kaleo concert poster"
+              imageAlt: "Elegant Gretsch electric guitar with rich wood finish and metal accents, perfect for music lovers."
             },
             {
               id: "3",
@@ -94,7 +94,7 @@ export default function Home() {
               rating: 5,
               reviewCount: "2.3k",
               imageSrc: "https://images.pexels.com/photos/167092/pexels-photo-167092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Kaleo Surface Sounds album vinyl record"
+              imageAlt: "A classic black vinyl record isolated on a white background."
             }
           ]}
         />
@@ -145,9 +145,8 @@ export default function Home() {
               role: "Music Blogger",
               company: "Rock Scene Magazine",
               rating: 5,
-              content: "Absolutely mesmerizing performance! Kaleo's energy on stage is unmatched and their connection with the audience is incredible.",
               imageSrc: "https://images.pexels.com/photos/341858/pexels-photo-341858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Sarah Mitchell at concert venue"
+              imageAlt: "Crowd of people dancing energetically in a foggy nightclub with raised hands."
             },
             {
               id: "2",
@@ -155,9 +154,8 @@ export default function Home() {
               role: "Concert Enthusiast",
               company: "Live Music Weekly",
               rating: 5,
-              content: "I've been to hundreds of concerts, and Kaleo's show stands out as one of the most powerful experiences I've ever had.",
               imageSrc: "https://images.pexels.com/photos/7715505/pexels-photo-7715505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Michael Chen enjoying live show"
+              imageAlt: "Energetic DJ in a leather jacket performing live under vibrant stage lights with an enthusiastic crowd."
             },
             {
               id: "3",
@@ -165,9 +163,8 @@ export default function Home() {
               role: "Music Fan",
               company: "Local Music Scene",
               rating: 5,
-              content: "The venue was electric with energy. Kaleo delivered every song with such passion and authenticity. Can't wait for the next show!",
               imageSrc: "https://images.pexels.com/photos/28096535/pexels-photo-28096535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Emma Rodriguez at concert"
+              imageAlt: "A joyful young couple embraces in a lively nightclub setting with vibrant lights."
             },
             {
               id: "4",
@@ -175,9 +172,8 @@ export default function Home() {
               role: "Band Photographer",
               company: "Concert Captures",
               rating: 5,
-              content: "As a photographer, I've captured many artists, but Kaleo's stage presence and raw emotion make for the most compelling shots.",
               imageSrc: "https://images.pexels.com/photos/3563170/pexels-photo-3563170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "David Kim with camera at show"
+              imageAlt: "Male singer performing energetically under bright lights at an outdoor music event."
             }
           ]}
         />
@@ -193,7 +189,7 @@ export default function Home() {
           buttonText="Get Updates"
           termsText="By signing up, you'll receive updates about ticket sales and concert information. Unsubscribe anytime."
           imageSrc="https://images.pexels.com/photos/14364624/pexels-photo-14364624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-          imageAlt="Concert venue with dramatic stage lighting"
+          imageAlt="A dimly lit backstage area filled with various equipment and storage items, creating a moody industrial atmosphere."
           mediaPosition="right"
         />
       </div>
